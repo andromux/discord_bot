@@ -259,6 +259,3 @@ https://discord.com/oauth2/authorize?client_id=TU_CLIENT_ID&scope=bot&permission
 * Esto cubre lo mínimo necesario para este comando sin dar permisos innecesarios.
 
 ---
-
-✅ Con esto, cualquier usuario que cree su bot con tu plantilla podrá ejecutar `!roms ps2` de manera segura, privada y con navegación interactiva, sin riesgos de que otros usuarios manipulen su lista.
-
