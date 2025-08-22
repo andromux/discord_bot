@@ -1,4 +1,5 @@
-
+- Para mantener el bot en segundo plano lee esta documentación:
+[https://pm2.keymetrics.io/](https://pm2.keymetrics.io/docs/usage/process-management/)
 
 # 1) ¿Dónde van los comandos y cómo se cargan?
 
