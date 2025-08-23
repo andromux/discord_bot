@@ -1,7 +1,8 @@
 - Para mantener el bot en segundo plano lee esta documentación:
-[Guía de los comandos: https://www.andromux.org/posts/discord-bot-python/](https://www.andromux.org/posts/discord-bot-python/)
 
-[Guía de PM2: https://www.andromux.org/posts/pm2-python/](https://www.andromux.org/posts/pm2-python/)
+- [Guía de los comandos: https://www.andromux.org/posts/discord-bot-python/](https://www.andromux.org/posts/discord-bot-python/)
+
+- [Guía de PM2: https://www.andromux.org/posts/pm2-python/](https://www.andromux.org/posts/pm2-python/)
 
 # 1) ¿Dónde van los comandos y cómo se cargan?
 
