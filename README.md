@@ -28,6 +28,8 @@ discord_bot/
 ---
 
 # 2) Crea `comandos/06_comando.py`
+![comando andromux discordbot de ejemplo](sr/discordpy.png)
+
 
 Este archivo trae **tres ejemplos** de comandos:
 

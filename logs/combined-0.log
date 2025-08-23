@@ -1,0 +1,84 @@
+2025-08-22T15:02:08: Traceback (most recent call last):
+2025-08-22T15:02:08:   File "/home/miguel/workspace/discord_bot/bot.py", line 1, in <module>
+2025-08-22T15:02:08:     import discord
+2025-08-22T15:02:08: ModuleNotFoundError: No module named 'discord'
+2025-08-22T15:02:08: Traceback (most recent call last):
+2025-08-22T15:02:08:   File "/home/miguel/workspace/discord_bot/bot.py", line 1, in <module>
+2025-08-22T15:02:08:     import discord
+2025-08-22T15:02:08: ModuleNotFoundError: No module named 'discord'
+2025-08-22T15:02:09: Traceback (most recent call last):
+2025-08-22T15:02:09:   File "/home/miguel/workspace/discord_bot/bot.py", line 1, in <module>
+2025-08-22T15:02:09:     import discord
+2025-08-22T15:02:09: ModuleNotFoundError: No module named 'discord'
+2025-08-22T15:02:09: Traceback (most recent call last):
+2025-08-22T15:02:09:   File "/home/miguel/workspace/discord_bot/bot.py", line 1, in <module>
+2025-08-22T15:02:09:     import discord
+2025-08-22T15:02:09: ModuleNotFoundError: No module named 'discord'
+2025-08-22T15:02:09: Traceback (most recent call last):
+2025-08-22T15:02:09:   File "/home/miguel/workspace/discord_bot/bot.py", line 1, in <module>
+2025-08-22T15:02:09:     import discord
+2025-08-22T15:02:09: ModuleNotFoundError: No module named 'discord'
+2025-08-22T15:02:09: Traceback (most recent call last):
+2025-08-22T15:02:09:   File "/home/miguel/workspace/discord_bot/bot.py", line 1, in <module>
+2025-08-22T15:02:09:     import discord
+2025-08-22T15:02:09: ModuleNotFoundError: No module named 'discord'
+2025-08-22T15:02:09: Traceback (most recent call last):
+2025-08-22T15:02:09:   File "/home/miguel/workspace/discord_bot/bot.py", line 1, in <module>
+2025-08-22T15:02:09:     import discord
+2025-08-22T15:02:09: ModuleNotFoundError: No module named 'discord'
+2025-08-22T15:02:10: Traceback (most recent call last):
+2025-08-22T15:02:10:   File "/home/miguel/workspace/discord_bot/bot.py", line 1, in <module>
+2025-08-22T15:02:10:     import discord
+2025-08-22T15:02:10: ModuleNotFoundError: No module named 'discord'
+2025-08-22T15:02:10: Traceback (most recent call last):
+2025-08-22T15:02:10:   File "/home/miguel/workspace/discord_bot/bot.py", line 1, in <module>
+2025-08-22T15:02:10:     import discord
+2025-08-22T15:02:10: ModuleNotFoundError: No module named 'discord'
+2025-08-22T15:02:10: Traceback (most recent call last):
+2025-08-22T15:02:10:   File "/home/miguel/workspace/discord_bot/bot.py", line 1, in <module>
+2025-08-22T15:02:10:     import discord
+2025-08-22T15:02:10: ModuleNotFoundError: No module named 'discord'
+2025-08-22T15:02:10: Traceback (most recent call last):
+2025-08-22T15:02:10:   File "/home/miguel/workspace/discord_bot/bot.py", line 1, in <module>
+2025-08-22T15:02:10:     import discord
+2025-08-22T15:02:10: ModuleNotFoundError: No module named 'discord'
+2025-08-22T15:02:10: Traceback (most recent call last):
+2025-08-22T15:02:10:   File "/home/miguel/workspace/discord_bot/bot.py", line 1, in <module>
+2025-08-22T15:02:10:     import discord
+2025-08-22T15:02:10: ModuleNotFoundError: No module named 'discord'
+2025-08-22T15:02:11: Traceback (most recent call last):
+2025-08-22T15:02:11:   File "/home/miguel/workspace/discord_bot/bot.py", line 1, in <module>
+2025-08-22T15:02:11:     import discord
+2025-08-22T15:02:11: ModuleNotFoundError: No module named 'discord'
+2025-08-22T15:02:11: Traceback (most recent call last):
+2025-08-22T15:02:11:   File "/home/miguel/workspace/discord_bot/bot.py", line 1, in <module>
+2025-08-22T15:02:11:     import discord
+2025-08-22T15:02:11: ModuleNotFoundError: No module named 'discord'
+2025-08-22T15:02:11: Traceback (most recent call last):
+2025-08-22T15:02:11:   File "/home/miguel/workspace/discord_bot/bot.py", line 1, in <module>
+2025-08-22T15:02:11:     import discord
+2025-08-22T15:02:11: ModuleNotFoundError: No module named 'discord'
+2025-08-22T15:02:11: Traceback (most recent call last):
+2025-08-22T15:02:11:   File "/home/miguel/workspace/discord_bot/bot.py", line 1, in <module>
+2025-08-22T15:02:11: import discord
+2025-08-22T15:02:11: ModuleNotFoundError: No module named 'discord'
+2025-08-22T15:08:03: [96m📥 Cargado:[0m [94m00_ayuda.py[0m
+2025-08-22T15:08:03: [96m📥 Cargado:[0m [94m01_saludo.py[0m
+2025-08-22T15:08:03: [96m📥 Cargado:[0m [94mmi_comando.py[0m
+2025-08-22T15:08:08: [93m✅ Bot conectado como [0m[92mretiredbot#6381[0m
+2025-08-22T15:10:25: 🛑 Bot detenido con CTRL + C
+2025-08-22T19:01:22: [96m📥 Cargado:[0m [94m00_ayuda.py[0m
+2025-08-22T19:01:22: [96m📥 Cargado:[0m [94m01_saludo.py[0m
+2025-08-22T19:01:22: [96m📥 Cargado:[0m [94mmi_comando.py[0m
+2025-08-22T19:01:26: [93m✅ Bot conectado como [0m[92mretiredbot#6381[0m
+2025-08-22T19:07:04: 🛑 Bot detenido con CTRL + C
+2025-08-22T19:14:43: [96m📥 Cargado:[0m [94m00_ayuda.py[0m
+2025-08-22T19:14:43: [96m📥 Cargado:[0m [94m01_saludo.py[0m
+2025-08-22T19:14:43: [96m📥 Cargado:[0m [94mmi_comando.py[0m
+2025-08-22T19:14:47: [93m✅ Bot conectado como [0m[92mretiredbot#6381[0m
+2025-08-22T19:15:25: 🛑 Bot detenido con CTRL + C
+2025-08-22T19:15:48: [96m📥 Cargado:[0m [94m00_ayuda.py[0m
+2025-08-22T19:15:48: [96m📥 Cargado:[0m [94m01_saludo.py[0m
+2025-08-22T19:15:48: [96m📥 Cargado:[0m [94mmi_comando.py[0m
+2025-08-22T19:15:53: [93m✅ Bot conectado como [0m[92mretiredbot#6381[0m
+2025-08-22T19:16:22: 🛑 Bot detenido con CTRL + C
